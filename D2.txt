@@ -1,0 +1,53 @@
+1. Từ vựng về các vấn đề sức khỏe:
+	Headache: đau đầu
+	Stomachache: đau bụng
+	Fever: sốt
+	Cold: cảm lạnh
+	Cough: ho
+	Sore throat: đau họng
+	Nausea: buồn nôn
+	Dizziness: chóng mặt
+	Allergy: dị ứng
+	Infection: nhiễm trùng
+	Injury: chấn thương
+	Flu: cúm
+	Pain: cơn đau
+	Fatigue: mệt mỏi
+2. Từ vựng về cơ thể:
+	Heart: tim
+	Lungs: phổi
+	Brain: não
+	Stomach: dạ dày
+	Liver: gan
+	Kidney: thận
+	Muscle: cơ bắp
+	Bone: xương
+	Skin: da
+	Blood: máu
+	Nerves: dây thần kinh
+	Ear: tai
+	Nose: mũi	
+	Throat: họng
+3. Từ vựng liên quan đến chăm sóc sức khỏe:
+	Clinic: phòng khám
+	Appointment: cuộc hẹn khám bệnh
+	Medication: thuốc men
+	Prescription: đơn thuốc
+	Surgery: phẫu thuật
+	Treatment: điều trị
+	Recovery: phục hồi
+	Symptom: triệu chứng
+	Diagnosis: chẩn đoán	
+	Check-up: kiểm tra sức khỏe
+	Vaccine: vắc-xin
+	Emergency: cấp cứu
+4. Từ vựng về các hoạt động chăm sóc sức khỏe:
+	Rest: nghỉ ngơi
+	Healthy diet: chế độ ăn uống lành mạnh
+	Sleep: giấc ngủ
+	Hydration: sự cung cấp nước
+	Mental health: sức khỏe tinh thần
+	Stress: căng thẳng
+	Relaxation: thư giãn
+	Stretching: căng cơ
+	Physical therapy: vật lý trị liệu
