@@ -1,0 +1,36 @@
+1. Từ vựng về cuộc sống hàng ngày:
+	Breakfast: bữa sáng
+	Routine: thói quen hàng ngày
+	Commute: đi lại (từ nhà đến chỗ làm, chỗ học)
+	Groceries: thực phẩm hàng ngày
+	Schedule: lịch trình
+	Appointment: cuộc hẹn
+	Exercise: tập thể dục
+	Laundry: giặt giũ
+	Relax: thư giãn
+	Dinner: bữa tối
+2. Từ vựng về cảm xúc và tâm trạng:
+	Happy: vui vẻ
+	Sad: buồn bã
+	Angry: tức giận
+	Excited: phấn khởi
+	Nervous: lo lắng
+	Surprised: ngạc nhiên
+	Confused: bối rối
+	Frustrated: thất vọng, bực bội
+	Proud: tự hào
+	Tired: mệt mỏi
+3. Từ vựng về công việc:
+	Job: công việc
+	Manager: quản lý
+	Engineer: kỹ sư
+	Interview: phỏng vấn
+	Colleague: đồng nghiệp
+	Salary: lương
+	Project: dự án
+	Task: nhiệm vụ
+	Meeting: cuộc họp
+	Deadline: thời hạn
+	SaaS (Software as a Service): phần mềm dịch vụ
+	Agile: quy trình phát triển phần mềm nhanh
+	Scrum: khung làm việc Scrum
