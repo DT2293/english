@@ -1,0 +1,36 @@
+1. Từ vựng về du lịch:
+	Destination: điểm đến
+	Tourist: khách du lịch
+	Journey: hành trình
+	Adventure: cuộc phiêu lưu
+	Sightseeing: tham quan
+	Tour guide: hướng dẫn viên du lịch
+	Souvenir: quà lưu niệm
+	Itinerary: lịch trình chuyến đi
+	Reservation: đặt chỗ
+	Accommodation: chỗ ở
+	Visa: thị thực
+	Luggage: hành lý
+2. Từ vựng về giao thông:
+	Subway: tàu điện ngầm
+	Tram: xe điện
+	Traffic: giao thông
+	Traffic jam: tắc đường
+	Highway: đường cao tốc
+	Pedestrian: người đi bộ
+	Driver's license: bằng lái xe
+	Parking: bãi đỗ xe
+	Ferry: phà
+	Baggage claim: băng chuyền hành lý
+	Departure: khởi hành
+	Arrival: đến nơi
+3. Từ vựng về các hoạt động liên quan đến du lịch:
+	Board: lên máy bay, tàu
+	Land: hạ cánh
+	Depart: rời đi
+	Arrive: đến nơi
+	Delay: trì hoãn
+	Explore: khám phá
+	Hike: đi bộ đường dài
+	Pack: đóng gói
+	Unpack: mở hành lý
